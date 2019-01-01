@@ -1,0 +1,6 @@
+include README.md LICENSE
+recursive-include penrose *
+recursive-include penrose * *
+global-exclude docs
+global-exclude __pycache__
+global-exclude OLD

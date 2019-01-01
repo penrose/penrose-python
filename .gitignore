@@ -1,0 +1,8 @@
+pypi.sh
+penrose.egg-info
+dist
+OLD
+_site
+.build
+*.pyc
+dist
